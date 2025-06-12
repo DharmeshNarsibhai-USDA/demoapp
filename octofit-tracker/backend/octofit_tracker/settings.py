@@ -1,3 +1,5 @@
+
+
 """
 Django settings for octofit_tracker project.
 
@@ -29,6 +31,7 @@ ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
     "ubiquitous-umbrella-g4r7p54q6wphj9-8000.app.github.dev",
+    "ubiquitous-umbrella-g4r7p54q6wphj9-3000.app.github.dev",
     "*"
 ]
 
